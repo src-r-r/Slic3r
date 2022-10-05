@@ -22,6 +22,7 @@
 #include <stdexcept>
 #include <sstream>
 #include <string>
+#include <fstream>
 
 #ifdef USE_WX
     #include "GUI/GUI.hpp"
